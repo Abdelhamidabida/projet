@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right, #00BCD4, #a4dafe, #00BCD4);
+}
+.ic{
+    margin-top: 32px;
+    margin-left: 56px;
+}
+.headd{
+    display: flex;
+}
+.headd .ic i {
+    font-size: 44px;
+}
+.envx{
+    margin-top: -289px;
+    margin-left: 913px;
+}
+.lan{
+    margin-top: 125px;
+    margin-left: 232px;
+}

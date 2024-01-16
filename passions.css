@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to right, #00BCD4, #a4dafe, #00BCD4);
+}
+
+.ic {
+    margin-top: 32px;
+    margin-left: 56px;
+}
+
+.headd {
+    display: flex;
+}
+
+.headd .ic i {
+    font-size: 44px;
+}
+.foot{
+    margin-left: 247px;
+    margin-top: 53px;
+}
+.qua{
+    margin-left: 787px;
+    margin-top: -330px;
+}

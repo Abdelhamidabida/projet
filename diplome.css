@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, #00BCD4, #a4dafe, #00BCD4);
+}
+.esc{
+    margin-left: 219px;
+    margin-top: 93px;
+}
+.TAY{
+    margin-left: 219px;
+    margin-top: 80px;
+}
+.dip{
+    margin-left: 616px;
+    margin-top: -185px;}
+.bac{
+    margin-left: 613px;
+    margin-top: -223px;
+}
+
+.ic{
+    margin-top: 32px;
+    margin-left: 56px;
+}
+.headd{
+    display: flex;
+}
+.headd .ic i {
+    font-size: 44px;
+}

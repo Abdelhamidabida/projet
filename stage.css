@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #00BCD4, #a4dafe, #00BCD4);
+}
+
+.ic {
+    margin-top: 32px;
+    margin-left: 56px;
+}
+
+.headd {
+    display: flex;
+}
+
+.headd .ic i {
+    font-size: 44px;
+}
+
+.experience {
+    margin-left: 296px;
+    margin-top: 78px;
+    width: 524px;
+    word-wrap: break-word;
+}
+.arrondie{
+    margin-left: 692px;
+    margin-top: -170px;
+    border-radius: 20px;
+}

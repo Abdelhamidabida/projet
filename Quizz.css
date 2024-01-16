@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to right, #00BCD4, #a4dafe, #00BCD4);
+}
+
+.ic {
+    margin-top: 32px;
+    margin-left: 56px;
+}
+
+.headd {
+    display: flex;
+}
+
+.headd .ic i {
+    font-size: 44px;
+}
+
+.qui1 {
+    margin-left: 251px;
+    margin-top: 45px;
+}
+
+.qui2 {
+    margin-left: 820px;
+    margin-top: -360px;
+}
+
+.button {
+    margin-top: 42px;
+    background-color: #a10c86;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 98px;
+}
+
+.button:hover {
+    background-color: #da7a20
+}
